@@ -20,12 +20,7 @@
 </p>
 
 <!-- Tech Distribution -->
-<p>
-  <img src="https://img.shields.io/badge/🤖_AI/GenAI-7_Projects-FF6B6B?style=flat-square" alt="AI Projects"/>
-  <img src="https://img.shields.io/badge/🧠_ML-3_Projects-9B59B6?style=flat-square" alt="ML Projects"/>
-  <img src="https://img.shields.io/badge/💻_Full_Stack-8_Projects-3498DB?style=flat-square" alt="Full Stack Projects"/>
-  <img src="https://img.shields.io/badge/📊_Other-4_Projects-2ECC71?style=flat-square" alt="Other Projects"/>
-</p>
+
 
 </div>
 
@@ -43,9 +38,9 @@
 - 📍 Based in **Austin, TX, USA**
 
 #### 🔭 Currently Working On
-- 🚀 Building **AI Agents** with LangGraph & CrewAI
-- 📚 Enhancing **RAG pipelines** for document intelligence
-- ⚡ Developing **scalable full-stack applications**
+-  Building **AI Agents** with LangGraph & CrewAI
+-  Enhancing **RAG pipelines** for document intelligence
+-  Developing **scalable full-stack applications**
 
 <br clear="right"/>
 
@@ -191,12 +186,7 @@
 | [**Demo_CRUD-API**](https://github.com/YASWANTHthottempudi/Demo_CRUD-API) | ⚡ RESTful API demonstration with full CRUD operations | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) |
 | [**react-quiz**](https://github.com/YASWANTHthottempudi/react-quiz) | 🎮 Enhanced React Quiz App with modern UI and gamification features | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 
-### 📊 Other Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**My-DSA-Solutions**](https://github.com/YASWANTHthottempudi/My-DSA-Solutions) | 💡 Collection of Data Structures & Algorithms solutions | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
-| [**flex-layout**](https://github.com/YASWANTHthottempudi/flex-layout) | 📐 CSS Flexbox layout practice project | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 
 ---
 
@@ -225,19 +215,7 @@
 
 ---
 
-## 🏆 Certifications
 
-<div align="center">
-
-![AWS ML](https://img.shields.io/badge/AWS-Machine%20Learning%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco Security](https://img.shields.io/badge/Cisco-CyberSecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco Python](https://img.shields.io/badge/Cisco-PCAP%20Python-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
 
 ---
 
@@ -274,6 +252,6 @@
 
 <br/>
 
-**⭐ From [YASWANTHthottempudi](https://github.com/YASWANTHthottempudi) with ❤️**
+** From [YASWANTHthottempudi](https://github.com/YASWANTHthottempudi)**
 
 </div>
