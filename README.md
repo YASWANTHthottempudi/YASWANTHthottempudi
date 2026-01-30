@@ -10,6 +10,21 @@
   <img src="https://komarev.com/ghpvc/?username=YASWANTHthottempudi&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/yaswanth-thottempudi-2720b221a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:yaswanththottempudi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <img src="https://img.shields.io/github/followers/YASWANTHthottempudi?style=for-the-badge&color=6366f1" alt="GitHub Followers"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Repositories-22-blue?style=for-the-badge&logo=github" alt="Repos"/>
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-purple?style=for-the-badge" alt="Focus"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=opensourceinitiative" alt="Open Source"/>
+</p>
+
+<!-- Tech Distribution -->
+<p>
+  <img src="https://img.shields.io/badge/🤖_AI/GenAI-7_Projects-FF6B6B?style=flat-square" alt="AI Projects"/>
+  <img src="https://img.shields.io/badge/🧠_ML-3_Projects-9B59B6?style=flat-square" alt="ML Projects"/>
+  <img src="https://img.shields.io/badge/💻_Full_Stack-8_Projects-3498DB?style=flat-square" alt="Full Stack Projects"/>
+  <img src="https://img.shields.io/badge/📊_Other-4_Projects-2ECC71?style=flat-square" alt="Other Projects"/>
 </p>
 
 </div>
@@ -26,6 +41,11 @@
 - 💻 Passionate about **Machine Learning, GenAI & Full Stack Development**
 - 🌱 Always exploring **emerging technologies** and **cutting-edge AI**
 - 📍 Based in **Austin, TX, USA**
+
+#### 🔭 Currently Working On
+- 🚀 Building **AI Agents** with LangGraph & CrewAI
+- 📚 Enhancing **RAG pipelines** for document intelligence
+- ⚡ Developing **scalable full-stack applications**
 
 <br clear="right"/>
 
@@ -120,40 +140,77 @@
 
 <div align="center">
 
-<a href="https://github.com/YASWANTHthottempudi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=AI-Tutor-Agent&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/YASWANTHthottempudi/Quiz-Tutor-Agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=Quiz-Tutor-Agent&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/YASWANTHthottempudi">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=Real-Whisp&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/YASWANTHthottempudi/ECommerce_Store">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=ECommerce_Store&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/YASWANTHthottempudi/ResearchPaper-Q-A-Agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=ResearchPaper-Q-A-Agent&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/YASWANTHthottempudi/JobOutreach-Agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=JobOutreach-Agent&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
 
-### 🤖 AI & ML Projects
+---
+
+### 🤖 AI & GenAI Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **AI Tutor Agent** | Intelligent tutoring system with 500+ quiz questions using local LLM inference | LangChain, Llama 3.2, ChromaDB, Streamlit |
-| **Document-QA Chatbot** | RAG-powered chatbot for 200+ PDFs with 85% accuracy | LangChain, OpenAI, FAISS, Python |
-| **LinkedIn Post Generator** | AI tool analyzing 5,000+ posts with 88% style consistency | LangChain, Groq API, Streamlit |
-| **Code Review Assistant** | Automated code review using T5 Transformer | T5, PyTorch, AST, Beam Search |
+| [**Quiz-Tutor-Agent**](https://github.com/YASWANTHthottempudi/Quiz-Tutor-Agent) | 🎓 AI-driven tutoring system generating 500+ unique questions using Llama 3.2 with local inference and RAG | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat) ![ChromaDB](https://img.shields.io/badge/-ChromaDB-00A86B?style=flat) |
+| [**ResearchPaper-Q-A-Agent**](https://github.com/YASWANTHthottempudi/ResearchPaper-Q-A-Agent) | 📄 RAG-powered document QA chatbot answering questions from 200+ PDFs with 85% accuracy | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat) ![FAISS](https://img.shields.io/badge/-FAISS-00A86B?style=flat) |
+| [**Post_Generator**](https://github.com/YASWANTHthottempudi/Post_Generator) | ✍️ AI tool analyzing 5,000+ LinkedIn influencer posts and generating content with 88% style consistency | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white) ![Groq](https://img.shields.io/badge/-Groq-F55036?style=flat) |
+| [**JobOutreach-Agent**](https://github.com/YASWANTHthottempudi/JobOutreach-Agent) | 💼 Agentic AI system for automated job outreach and application assistance | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat) ![CrewAI](https://img.shields.io/badge/-CrewAI-FF6B6B?style=flat) |
+| [**Email_Generator**](https://github.com/YASWANTHthottempudi/Email_Generator) | 📧 AI-powered email generation tool with personalized content creation | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat) |
+| [**SearchEnging_langchain**](https://github.com/YASWANTHthottempudi/SearchEnging_langchain) | 🔍 LangChain-powered search engine with semantic search capabilities | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat) |
+| [**GenAI_Practice**](https://github.com/YASWANTHthottempudi/GenAI_Practice) | 🧪 Collection of GenAI experiments and practice notebooks | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+
+### 🧠 Machine Learning Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**Medicinal-Leaves-Classification**](https://github.com/YASWANTHthottempudi/Medicinal-Leaves-Classification-using-Machine-Learning) | 🌿 ML model for classifying medicinal leaves using computer vision | ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) |
+| [**Dynamic-Aerial-Imagery-Detection**](https://github.com/YASWANTHthottempudi/Dynamic-Aerial-Imagery-Detection) | 🛰️ Computer vision pipeline for urban change detection in satellite images with 92% mAP | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
+| [**Camouflaged-poision-attack**](https://github.com/YASWANTHthottempudi/Camouflaged-poision-attack) | 🔐 Research on adversarial machine learning and poison attack detection | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) |
 
 ### 💻 Full Stack Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| **Real Whisp** | Real-time chat platform supporting 500+ concurrent users | Next.js, Socket.io, MongoDB, Docker |
-| **E-Commerce Store** | Full MERN platform with Stripe integration | React, Node.js, Express, MongoDB |
-| **AI Chatbot** | Multi-provider AI chatbot with 5 major platforms | React.js, OpenAI, Gemini, Claude |
+| [**ECommerce_Store**](https://github.com/YASWANTHthottempudi/ECommerce_Store) | 🛒 Full-stack e-commerce platform with 200+ products, Stripe payments, and Cloudinary CDN | ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| [**React_Chatbot**](https://github.com/YASWANTHthottempudi/React_Chatbot) | 🤖 Multi-provider AI chatbot integrating OpenAI, Gemini, Claude, DeepSeek & Grok | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| [**Student_Management_System**](https://github.com/YASWANTHthottempudi/Student_Management_System) | 🎓 Complete student management system with CRUD operations | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| [**WorkSpace-Manager**](https://github.com/YASWANTHthottempudi/WorkSpace-Manager) | 🏢 Workspace management application for team collaboration | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| [**eBookStore**](https://github.com/YASWANTHthottempudi/eBookStore) | 📚 Digital bookstore with browsing and purchasing features | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| [**Online_Restaurant**](https://github.com/YASWANTHthottempudi/Online_Restaurant) | 🍽️ Food ordering website with menu management and cart functionality | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) |
+| [**Demo_CRUD-API**](https://github.com/YASWANTHthottempudi/Demo_CRUD-API) | ⚡ RESTful API demonstration with full CRUD operations | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) |
+| [**react-quiz**](https://github.com/YASWANTHthottempudi/react-quiz) | 🎮 Enhanced React Quiz App with modern UI and gamification features | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
+
+### 📊 Other Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**My-DSA-Solutions**](https://github.com/YASWANTHthottempudi/My-DSA-Solutions) | 💡 Collection of Data Structures & Algorithms solutions | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) |
+| [**flex-layout**](https://github.com/YASWANTHthottempudi/flex-layout) | 📐 CSS Flexbox layout practice project | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white) |
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
+
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=YASWANTHthottempudi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
+
+<br/><br/>
   
-<img src="https://github-readme-stats.vercel.app/api?username=YASWANTHthottempudi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASWANTHthottempudi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=YASWANTHthottempudi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASWANTHthottempudi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" height="180"/>
 
 <br/>
 
