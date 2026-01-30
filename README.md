@@ -114,13 +114,7 @@
 
 </div>
 
-<!-- Goku & Vegeta Power Up Divider -->
-<div align="center">
-  <img src="https://media.giphy.com/media/TfLEXiRtYoHUkaPVUk/giphy.gif" width="80" align="left"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4c8c3a7c4c48.gif" width="400"/>
-  <img src="https://media.giphy.com/media/oTjoawKEq3wYD5fKEh/giphy.gif" width="80" align="right"/>
-</div>
-<br/><br/><br/>
+
 
 ## 💼 Work Experience
 
@@ -143,13 +137,7 @@
 </tr>
 </table>
 
-<!-- Goku & Vegeta Battle Divider -->
-<div align="center">
-  <img src="https://media.giphy.com/media/BQAk13taTaKYw/giphy.gif" width="70" align="left"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" width="400"/>
-  <img src="https://media.giphy.com/media/2rAKTgJIQe1buYU1R5/giphy.gif" width="70" align="right"/>
-</div>
-<br/><br/><br/>
+
 
 ## 🚀 Featured Projects
 
@@ -265,13 +253,7 @@
 
 </div>
 
-<!-- Goku & Vegeta Training Divider -->
-<div align="center">
-  <img src="https://media.giphy.com/media/BQAk13taTaKYw/giphy.gif" width="70" align="left"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400"/>
-  <img src="https://media.giphy.com/media/2rAKTgJIQe1buYU1R5/giphy.gif" width="70" align="right"/>
-</div>
-<br/><br/><br/>
+
 
 ## 📬 Let's Connect!
 
@@ -293,13 +275,7 @@
 
 </div>
 
-<!-- Goku & Vegeta Final Divider -->
-<div align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="70" align="left"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd6-9f9c-a3aa3f2b9a3c.gif" width="400"/>
-  <img src="https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif" width="70" align="right"/>
-</div>
-<br/><br/><br/>
+
 
 <div align="center">
 
