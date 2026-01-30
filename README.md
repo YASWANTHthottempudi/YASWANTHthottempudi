@@ -7,14 +7,12 @@
 
 <!-- Profile Views & Social Badges -->
 <p>
-  <img src="https://komarev.com/ghpvc/?username=YASWANTHthottempudi&label=Profile%20views&color=6366f1&style=for-the-badge" alt="Profile Views" />
   <a href="https://www.linkedin.com/in/yaswanth-thottempudi-2720b221a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:yaswanththottempudi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <img src="https://img.shields.io/github/followers/YASWANTHthottempudi?style=for-the-badge&color=6366f1" alt="GitHub Followers"/>
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Repositories-22-blue?style=for-the-badge&logo=github" alt="Repos"/>
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-purple?style=for-the-badge" alt="Focus"/>
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-green?style=for-the-badge&logo=opensourceinitiative" alt="Open Source"/>
 </p>
@@ -36,17 +34,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-- 🎓 **MS in Computer Science** at **Texas Tech University** (GPA: 3.75/4)
-- 💻 Currently working as **Full Stack Developer** (Graduate Assistant)
-- 🧠 Building intelligent systems with **LLMs, RAG, and Agentic AI**
-- 🚀 Passionate about **Full Stack Development, Machine Learning & GenAI**
-- 📍 Based in **Austin, TX, USA**
+-  **MS in Computer Science** at **Texas Tech University** (GPA: 3.88/4)
+-  Currently working as **Full Stack Developer** (Graduate Assistant)
+-  Building intelligent systems with **LLMs, RAG, and Agentic AI**
+-  Passionate about **Full Stack Development, Machine Learning & GenAI**
+-  Based in **Austin, TX, USA**
 
 
-#### 🔭 Currently Working On
-- 🚀 Building **AI Agents** with LangGraph & CrewAI
-- 📚 Enhancing **RAG pipelines** for document intelligence
-- ⚡ Developing **scalable full-stack applications**
+####  Currently Working On
+-  Building **AI Agents** with LangGraph & CrewAI
+-  Enhancing **RAG pipelines** for document intelligence
+-  Developing **scalable full-stack applications**
 
 <br clear="right"/>
 
@@ -146,7 +144,7 @@
 
 
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -180,13 +178,6 @@
 | [**SearchEnging_langchain**](https://github.com/YASWANTHthottempudi/SearchEnging_langchain) | 🔍 LangChain-powered search engine with semantic search capabilities |
 | [**GenAI_Practice**](https://github.com/YASWANTHthottempudi/GenAI_Practice) | 🧪 Collection of GenAI experiments and practice notebooks |
 
-### 🧠 Machine Learning Projects
-
-| Project | Description |
-|---------|-------------|
-| [**Medicinal-Leaves-Classification**](https://github.com/YASWANTHthottempudi/Medicinal-Leaves-Classification-using-Machine-Learning) | 🌿 ML model for classifying medicinal leaves using computer vision |
-| [**Dynamic-Aerial-Imagery-Detection**](https://github.com/YASWANTHthottempudi/Dynamic-Aerial-Imagery-Detection) | 🛰️ Computer vision pipeline for urban change detection in satellite images with 92% mAP |
-| [**Camouflaged-poision-attack**](https://github.com/YASWANTHthottempudi/Camouflaged-poision-attack) | 🔐 Research on adversarial machine learning and poison attack detection |
 
 ### 💻 Full Stack Projects
 
@@ -224,19 +215,6 @@
 </div>
 <br/><br/><br/>
 
-## 🏆 Certifications
-
-<div align="center">
-
-![AWS ML](https://img.shields.io/badge/AWS-Machine%20Learning%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![AWS Cloud](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-Database%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-![Cisco CCNA](https://img.shields.io/badge/Cisco-CCNA%20Networks-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco Security](https://img.shields.io/badge/Cisco-CyberSecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Cisco Python](https://img.shields.io/badge/Cisco-PCAP%20Python-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-</div>
 
 
 
