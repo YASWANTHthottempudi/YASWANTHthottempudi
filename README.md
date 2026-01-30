@@ -20,11 +20,7 @@
 </p>
 
 <!-- Tech Distribution -->
-<p>
-  <img src="https://img.shields.io/badge/🤖_AI/GenAI-7_Projects-FF6B6B?style=flat-square" alt="AI Projects"/>
-  <img src="https://img.shields.io/badge/🧠_ML-3_Projects-9B59B6?style=flat-square" alt="ML Projects"/>
-  <img src="https://img.shields.io/badge/💻_Full_Stack-8_Projects-3498DB?style=flat-square" alt="Full Stack Projects"/>
-</p>
+
 
 </div>
 
