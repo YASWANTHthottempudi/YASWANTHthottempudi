@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Animated Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Yaswanth+Thottempudi;AI+Engineer+%7C+Full+Stack+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Hi+%F0%9F%91%8B%2C+I'm+Yaswanth+Thottempudi;Full+Stack+Developer" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -41,10 +41,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 - 🎓 **MS in Computer Science** at **Texas Tech University** (GPA: 3.75/4)
-- 🤖 Currently working as **AI Engineer** & **Full Stack Developer** (Graduate Assistant)
+- 💻 Currently working as **Full Stack Developer** (Graduate Assistant)
 - 🧠 Building intelligent systems with **LLMs, RAG, and Agentic AI**
-- 💻 Passionate about **Machine Learning, GenAI & Full Stack Development**
-- 🌱 Always exploring **emerging technologies** and **cutting-edge AI**
+- 🚀 Passionate about **Full Stack Development, Machine Learning & GenAI**
+- 📍 Based in **Austin, TX, USA**
 
 
 #### 🔭 Currently Working On
@@ -118,20 +118,31 @@
 
 ## 💼 Work Experience
 
-<table>
+<div align="center">
+
+### 🎓 Texas Tech University | Full Stack Developer (Graduate Assistant)
+**Jan 2025 – Present** | Lubbock, TX
+
+</div>
+
+<table width="100%">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
+
+**🛠️ Backend Development**
+- Engineered scalable backend services with **Node.js** and **Express**
+- Delivered **25+ RESTful API endpoints** with structured routing
+- Configured **PostgreSQL** database managing **100K+ records**
+- Implemented **JWT authentication** with role-based access control
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🎓 Texas Tech University
-**Full Stack Developer (Graduate Assistant)**  
-*Jan 2025 – Present*
-- 💻 Built web app serving **500+ university staff**
-- 🛠️ Developed **25+ RESTful API endpoints**
-- 📈 Improved page load times by **70%**
-- 🔐 Implemented JWT auth with **99.9% uptime**
+**💻 Frontend & Performance**
+- Built **20+ reusable React components** with Tailwind CSS
+- Improved user task completion rate by **45%**
+- Accelerated page load times by **70%** through lazy loading
+- Achieved **99.9% uptime** across production environments
 
 </td>
 </tr>
@@ -159,13 +170,7 @@
 
 </div>
 
-<!-- Goku & Vegeta Sparring Divider -->
-<div align="center">
-  <img src="https://media.giphy.com/media/TfLEXiRtYoHUkaPVUk/giphy.gif" width="65" align="left"/>
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"/>
-  <img src="https://media.giphy.com/media/oTjoawKEq3wYD5fKEh/giphy.gif" width="65" align="right"/>
-</div>
-<br/><br/><br/>
+---
 
 ### 🤖 AI & GenAI Projects
 
@@ -200,22 +205,11 @@
 | [**Demo_CRUD-API**](https://github.com/YASWANTHthottempudi/Demo_CRUD-API) | ⚡ RESTful API demonstration with full CRUD operations |
 | [**react-quiz**](https://github.com/YASWANTHthottempudi/react-quiz) | 🎮 Enhanced React Quiz App with modern UI and gamification features |
 
-<!-- Goku & Vegeta Super Saiyan Divider -->
-<div align="center">
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80" align="left"/>
-  <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="400"/>
-  <img src="https://media.giphy.com/media/mIZ9rPeMKefm0/giphy.gif" width="80" align="right"/>
-</div>
-<br/><br/><br/>
+---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=YASWANTHthottempudi&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5" width="100%"/>
-
-<br/><br/>
   
 <img src="https://github-readme-stats.vercel.app/api?username=YASWANTHthottempudi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&count_private=true" height="180"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASWANTHthottempudi&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&langs_count=8" height="180"/>
@@ -223,11 +217,6 @@
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=YASWANTHthottempudi&theme=tokyonight&hide_border=true&background=1a1b27&stroke=70a5fd&ring=bf91f3&fire=ff9e64&currStreakLabel=70a5fd" />
-
-<br/>
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASWANTHthottempudi&theme=tokyo-night&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=ff9e64" width="95%"/>
 
 </div>
 
