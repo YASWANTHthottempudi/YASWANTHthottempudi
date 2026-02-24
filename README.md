@@ -251,6 +251,5 @@
 
 <br/>
 
-**⭐ From [YASWANTHthottempudi](https://github.com/YASWANTHthottempudi) with ❤️**
 
 </div>
