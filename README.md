@@ -9,7 +9,6 @@
 <p>
   <a href="https://www.linkedin.com/in/yaswanth-thottempudi-2720b221a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:yaswanththottempudi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <img src="https://img.shields.io/github/followers/YASWANTHthottempudi?style=for-the-badge&color=6366f1" alt="GitHub Followers"/>
 </p>
 
 <p>
