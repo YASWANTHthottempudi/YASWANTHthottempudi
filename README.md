@@ -123,10 +123,11 @@
 <td width="50%" valign="top">
 
 **🛠️ Backend Development**
-- Engineered scalable backend services with **Node.js** and **Express**
+- Engineered scalable backend services with **Springboot**.
 - Delivered **25+ RESTful API endpoints** with structured routing
 - Configured **PostgreSQL** database managing **100K+ records**
 - Implemented **JWT authentication** with role-based access control
+- Containerized backend services using **Docker** and integrated CI/CD pipelines via GitHub Actions
 
 </td>
 <td width="50%" valign="top">
