@@ -109,41 +109,6 @@
 
 
 
-## 💼 Work Experience
-
-<div align="center">
-
-### 🎓 Texas Tech University | Full Stack Developer (Graduate Assistant)
-**Jan 2025 – Present** | Lubbock, TX
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🛠️ Backend Development**
-- Engineered scalable backend services with **Springboot**.
-- Delivered **25+ RESTful API endpoints** with structured routing
-- Configured **PostgreSQL** database managing **100K+ records**
-- Implemented **JWT authentication** with role-based access control
-- Containerized backend services using **Docker** and integrated CI/CD pipelines via GitHub Actions
-
-</td>
-<td width="50%" valign="top">
-
-**💻 Frontend & Performance**
-- Built **20+ reusable React components** with Tailwind CSS
-- Improved user task completion rate by **45%**
-- Accelerated page load times by **70%** through lazy loading
-- Achieved **99.9% uptime** across production environments
-
-</td>
-</tr>
-</table>
-
-
-
 ## Featured Projects
 
 <div align="center">
