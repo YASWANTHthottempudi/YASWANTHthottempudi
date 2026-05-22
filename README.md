@@ -1,226 +1,261 @@
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    HEADER — SAIYAN SUNSET                    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<a href="#">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1E3A8A,100:F59E0B&height=240&section=header&text=Yaswanth%20Thottempudi&fontSize=58&fontColor=FFD700&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Shinobi%20%E2%9A%94%EF%B8%8F%20%7C%20AI%20Sage%20%F0%9F%A6%8A&descAlignY=60&descSize=18" width="100%" alt="header"/>
+</a>
+
 <div align="center">
 
-<!-- Animated Typing SVG (Saiyan Gold) -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&multiline=true&repeat=true&width=720&height=120&lines=Hi+%F0%9F%91%8B%2C+I'm+Yaswanth+Thottempudi;Full+Stack+Shinobi+%E2%9A%94%EF%B8%8F+%7C+AI+Sage+%F0%9F%A6%8A;Believe+It%21+%F0%9F%8D%9C+Dattebayo%21" alt="Typing SVG" /></a>
+<!-- Typing animation -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=F59E0B&center=true&vCenter=true&width=780&height=60&lines=Believe+It!+%E2%9C%A8+Dattebayo!;Crafting+AI+Agents+%E2%9A%A1+Building+Scalable+Systems;LLMs+%E2%80%A2+RAG+%E2%80%A2+Agentic+AI+%E2%80%A2+Full+Stack" alt="Typing SVG"/>
+</a>
 
 <br/>
 
-<!-- Naruto Running Banner -->
-<img src="https://media.giphy.com/media/H7ifPdH52pkpa/giphy.gif" width="500" alt="Naruto Running"/>
+<!-- Profile contact badges -->
+<a href="https://www.linkedin.com/in/yaswanth-thottempudi-2720b221a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:yaswanththottempudi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/YASWANTHthottempudi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F59E0B" alt="GitHub"/></a>
+<img src="https://komarev.com/ghpvc/?username=YASWANTHthottempudi&style=for-the-badge&color=F59E0B&label=Profile+Views" alt="views"/>
 
 <br/><br/>
 
-<!-- Profile Badges -->
-<p>
-  <a href="https://www.linkedin.com/in/yaswanth-thottempudi-2720b221a/"><img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:yaswanththottempudi@gmail.com"><img src="https://img.shields.io/badge/Gmail-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://github.com/YASWANTHthottempudi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub"/></a>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-FFD700?style=for-the-badge" alt="Focus"/>
-  <img src="https://img.shields.io/badge/Hidden%20Village-Konoha-FFA500?style=for-the-badge" alt="Konoha"/>
-  <img src="https://img.shields.io/badge/Rank-Jonin%20Developer-00BFFF?style=for-the-badge" alt="Rank"/>
-  <img src="https://img.shields.io/badge/Open%20Source-Contributor-1E90FF?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Open Source"/>
-</p>
+<img src="https://img.shields.io/badge/Focus-AI%20%26%20Full%20Stack-F59E0B?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Rank-Jonin%20Developer-3B82F6?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Village-Konoha%20%F0%9F%8D%9C-EF4444?style=flat-square&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Status-Open%20to%20Squad-22C55E?style=flat-square&labelColor=0D1117"/>
 
 </div>
 
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4da4-a0ff-1cb019281c92.gif" width="100%"/>
-</div>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       ORIGIN STORY                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-## 🍥 Origin Story
+## 🍥 &nbsp;Origin Story
 
-<img align="right" alt="Rasengan Coding" width="380" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+<img align="right" alt="Coding ninja" width="380" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" style="max-width:100%;"/>
 
-- 🎓 **MS in Computer Science** at **Texas Tech University** (GPA: 3.88/4)
-- 💼 Currently working as **Full Stack Developer** (Graduate Assistant)
-- 🦊 Building intelligent systems with **LLMs, RAG, and Agentic AI**
-- ⚡ Passionate about **Full Stack Development, Machine Learning & GenAI**
-- 🏯 Based in **Austin, TX, USA**
+```yaml
+ninja:
+  name:        Yaswanth Thottempudi
+  rank:        Jonin Developer
+  village:     Austin, TX  🇺🇸
+  education:   MS in Computer Science @ Texas Tech University
+  gpa:         3.88 / 4.00
+  role:        Full Stack Developer (Graduate Assistant)
+  arsenal:    [Python, TypeScript, Java, FastAPI, Next.js]
+  sage_mode:  [LLMs, RAG, LangGraph, CrewAI, Agentic AI]
+  motto:      "Never give up — that's my ninja way."
+```
 
-#### 🔥 Active Missions
-- 🌀 Building **AI Agents** with LangGraph & CrewAI
-- 📜 Enhancing **RAG pipelines** for document intelligence
-- ⚔️ Developing **scalable full-stack applications**
+#### 🔥 &nbsp;Active Missions
+- 🌀 &nbsp;Forging **multi-agent AI systems** with LangGraph & CrewAI
+- 📜 &nbsp;Engineering **RAG pipelines** for document intelligence at scale
+- ⚔️ &nbsp;Shipping **production-grade full-stack applications**
 
 <br clear="right"/>
 
-<!-- Animated Divider -->
+<!-- divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4da4-a0ff-1cb019281c92.gif" width="100%"/>
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider"/>
 </div>
 
-## 🌀 Jutsu Arsenal
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       JUTSU ARSENAL                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
-<div align="center">
+## 🌀 &nbsp;Jutsu Arsenal
 
-### ⚔️ Ninjutsu — Core Techniques
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+#### ⚔️ &nbsp;Ninjutsu — Languages
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🦊 Sage Mode — AI & GenAI Mastery
+</td>
+<td align="center" width="50%">
+
+#### 🦊 &nbsp;Sage Mode — AI / GenAI
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 👥 Shadow Clone Jutsu — Full Stack
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+#### 👥 &nbsp;Shadow Clone — Full Stack
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ☁️ Summoning Jutsu — Cloud & DevOps
+</td>
+<td align="center" width="50%">
+
+#### ☁️ &nbsp;Summoning — Cloud / DevOps
+
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GH%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
 
-### 📜 Scroll Storage — Databases & Vector DBs
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+#### 📜 &nbsp;Scroll Storage — Databases & Vector Stores
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/Chroma-FF6B6B?style=for-the-badge&logoColor=white)
 
-### 📕 Forbidden Scrolls — MLOps & Tools
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</td>
+</tr>
+</table>
 
+<!-- divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider"/>
 </div>
 
-<!-- Animated Divider -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                    LEGENDARY MISSIONS                        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## ⭐ &nbsp;Legendary Missions — S-Rank Only
+
+> _Five of the most chakra-intensive scrolls in my arsenal._
+
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4da4-a0ff-1cb019281c92.gif" width="100%"/>
-</div>
 
-## ⭐ Legendary Missions
-
-<div align="center">
-
+<!-- Row 1 -->
 <a href="https://github.com/YASWANTHthottempudi/Quiz-Tutor-Agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=Quiz-Tutor-Agent&title_color=FFD700&icon_color=00BFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://github.com/YASWANTHthottempudi/ECommerce_Store">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=ECommerce_Store&title_color=FFD700&icon_color=00BFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
-</a>
-
-<a href="https://github.com/YASWANTHthottempudi/ResearchPaper-Q-A-Agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=ResearchPaper-Q-A-Agent&title_color=FFD700&icon_color=00BFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=Quiz-Tutor-Agent&title_color=F59E0B&icon_color=3B82F6&text_color=E5E7EB&bg_color=0D1117&hide_border=true" width="48%" alt="Quiz-Tutor-Agent"/>
 </a>
 <a href="https://github.com/YASWANTHthottempudi/JobOutreach-Agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=JobOutreach-Agent&title_color=FFD700&icon_color=00BFFF&text_color=FFFFFF&bg_color=0D1117&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=JobOutreach-Agent&title_color=F59E0B&icon_color=3B82F6&text_color=E5E7EB&bg_color=0D1117&hide_border=true" width="48%" alt="JobOutreach-Agent"/>
+</a>
+
+<!-- Row 2 -->
+<a href="https://github.com/YASWANTHthottempudi/ResearchPaper-Q-A-Agent">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=ResearchPaper-Q-A-Agent&title_color=F59E0B&icon_color=3B82F6&text_color=E5E7EB&bg_color=0D1117&hide_border=true" width="48%" alt="ResearchPaper-Q-A-Agent"/>
+</a>
+<a href="https://github.com/YASWANTHthottempudi/ECommerce_Store">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=ECommerce_Store&title_color=F59E0B&icon_color=3B82F6&text_color=E5E7EB&bg_color=0D1117&hide_border=true" width="48%" alt="ECommerce_Store"/>
+</a>
+
+<!-- Row 3 -->
+<a href="https://github.com/YASWANTHthottempudi/React_Chatbot">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YASWANTHthottempudi&repo=React_Chatbot&title_color=F59E0B&icon_color=3B82F6&text_color=E5E7EB&bg_color=0D1117&hide_border=true" width="48%" alt="React_Chatbot"/>
 </a>
 
 </div>
-
----
-
-### 🔮 S-Rank Missions — AI & GenAI Projects
-
-| Mission | Briefing |
-|---------|----------|
-| [**Quiz-Tutor-Agent**](https://github.com/YASWANTHthottempudi/Quiz-Tutor-Agent) | 🎓 AI-driven tutoring system generating 500+ unique questions using Llama 3.2 with local inference and RAG |
-| [**ResearchPaper-Q-A-Agent**](https://github.com/YASWANTHthottempudi/ResearchPaper-Q-A-Agent) | 📄 RAG-powered document QA chatbot answering questions from 200+ PDFs with 85% accuracy |
-| [**Post_Generator**](https://github.com/YASWANTHthottempudi/Post_Generator) | ✍️ AI tool analyzing 5,000+ LinkedIn influencer posts and generating content with 88% style consistency |
-| [**JobOutreach-Agent**](https://github.com/YASWANTHthottempudi/JobOutreach-Agent) | 💼 Agentic AI system for automated job outreach and application assistance |
-| [**Email_Generator**](https://github.com/YASWANTHthottempudi/Email_Generator) | 📧 AI-powered email generation tool with personalized content creation |
-| [**SearchEnging_langchain**](https://github.com/YASWANTHthottempudi/SearchEnging_langchain) | 🔍 LangChain-powered search engine with semantic search capabilities |
-| [**GenAI_Practice**](https://github.com/YASWANTHthottempudi/GenAI_Practice) | 🧪 Collection of GenAI experiments and practice notebooks |
-
-### 🛡️ A-Rank Missions — Full Stack Projects
-
-| Mission | Briefing |
-|---------|----------|
-| [**ECommerce_Store**](https://github.com/YASWANTHthottempudi/ECommerce_Store) | 🛒 Full-stack e-commerce platform with 200+ products, Stripe payments, and Cloudinary CDN |
-| [**React_Chatbot**](https://github.com/YASWANTHthottempudi/React_Chatbot) | 🤖 Multi-provider AI chatbot integrating OpenAI, Gemini, Claude, DeepSeek & Grok |
-| [**Student_Management_System**](https://github.com/YASWANTHthottempudi/Student_Management_System) | 🎓 Complete student management system with CRUD operations |
-| [**WorkSpace-Manager**](https://github.com/YASWANTHthottempudi/WorkSpace-Manager) | 🏢 Workspace management application for team collaboration |
-| [**eBookStore**](https://github.com/YASWANTHthottempudi/eBookStore) | 📚 Digital bookstore with browsing and purchasing features |
-| [**Online_Restaurant**](https://github.com/YASWANTHthottempudi/Online_Restaurant) | 🍽️ Food ordering website with menu management and cart functionality |
-| [**Demo_CRUD-API**](https://github.com/YASWANTHthottempudi/Demo_CRUD-API) | ⚡ RESTful API demonstration with full CRUD operations |
-| [**react-quiz**](https://github.com/YASWANTHthottempudi/react-quiz) | 🎮 Enhanced React Quiz App with modern UI and gamification features |
-
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4da4-a0ff-1cb019281c92.gif" width="100%"/>
-</div>
-
-## 📊 Chakra Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YASWANTHthottempudi&show_icons=true&hide_border=true&title_color=FFD700&icon_color=00BFFF&text_color=FFFFFF&bg_color=0D1117&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASWANTHthottempudi&layout=compact&hide_border=true&title_color=FFD700&text_color=00BFFF&bg_color=0D1117&langs_count=8" height="180"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YASWANTHthottempudi&hide_border=true&background=0D1117&stroke=00BFFF&ring=FFD700&fire=FFA500&currStreakLabel=FFD700&currStreakNum=FFD700&sideNums=FFFFFF&sideLabels=FFFFFF&dates=00BFFF" />
+| 🎯 &nbsp;Mission | 🔮 &nbsp;Difficulty | 📜 &nbsp;Briefing |
+|---|---|---|
+| [**Quiz-Tutor-Agent**](https://github.com/YASWANTHthottempudi/Quiz-Tutor-Agent) | `S-Rank` | Agentic tutoring system generating **500+ unique questions** with local **Llama 3.2** inference + RAG retrieval over study material. |
+| [**JobOutreach-Agent**](https://github.com/YASWANTHthottempudi/JobOutreach-Agent) | `S-Rank` | Autonomous multi-step agent that researches roles, drafts personalized outreach, and orchestrates the application pipeline end-to-end. |
+| [**ResearchPaper-Q-A-Agent**](https://github.com/YASWANTHthottempudi/ResearchPaper-Q-A-Agent) | `S-Rank` | Production RAG over **200+ PDFs** with citation-grounded answers at **~85% accuracy** — chunking, embeddings, hybrid retrieval. |
+| [**ECommerce_Store**](https://github.com/YASWANTHthottempudi/ECommerce_Store) | `A-Rank` | Full-stack storefront with **200+ products**, Stripe checkout, Cloudinary CDN, auth, cart, and admin dashboard. |
+| [**React_Chatbot**](https://github.com/YASWANTHthottempudi/React_Chatbot) | `A-Rank` | Unified chat surface routing across **OpenAI, Gemini, Claude, DeepSeek & Grok** with streaming, persistence, and provider failover. |
+
+<!-- divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider"/>
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                        CHAKRA STATS                          ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 📊 &nbsp;Chakra Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YASWANTHthottempudi&show_icons=true&hide_border=true&title_color=F59E0B&icon_color=3B82F6&text_color=E5E7EB&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YASWANTHthottempudi&layout=compact&hide_border=true&title_color=F59E0B&text_color=E5E7EB&bg_color=0D1117&langs_count=8" alt="Top Languages"/>
 
 <br/><br/>
 
-<!-- GitHub Trophies (Naruto-themed gold trophies) -->
-<img src="https://github-profile-trophy.vercel.app/?username=YASWANTHthottempudi&theme=onedark&no-bg=true&no-frame=true&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" />
+<img src="https://streak-stats.demolab.com?user=YASWANTHthottempudi&hide_border=true&background=0D1117&stroke=3B82F6&ring=F59E0B&fire=EF4444&currStreakLabel=F59E0B&currStreakNum=F59E0B&sideNums=E5E7EB&sideLabels=E5E7EB&dates=3B82F6" alt="Streak Stats"/>
 
-</div>
+<br/><br/>
 
-<!-- Animated Divider -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4da4-a0ff-1cb019281c92.gif" width="100%"/>
-</div>
+<img src="https://github-profile-trophy.vercel.app/?username=YASWANTHthottempudi&theme=onedark&no-bg=true&no-frame=true&column=7&title=Stars,Followers,Commits,Repositories,PullRequest,Issues,Experience" alt="Trophies"/>
 
-## 🤝 Form a Squad
+<br/><br/>
 
-<div align="center">
-
-> _"A shinobi who breaks the rules is trash, but those who abandon their friends are worse than trash."_ — Kakashi Hatake
+<!-- Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YASWANTHthottempudi&bg_color=0D1117&color=F59E0B&line=3B82F6&point=E5E7EB&area=true&hide_border=true" width="98%" alt="Activity Graph"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/yaswanth-thottempudi-2720b221a/">
-  <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:yaswanththottempudi@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-FFA500?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://github.com/YASWANTHthottempudi">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFD700" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-
-<br/><br/>
-
-<!-- Snake Animation -->
+<!-- Contribution snake -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"/>
 </picture>
 
+</div>
+
+<!-- divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%" alt="divider"/>
+</div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                       FORM A SQUAD                           ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+## 🤝 &nbsp;Form a Squad
+
+<div align="center">
+
+> _"A shinobi who breaks the rules is trash, but those who abandon their friends are worse than trash."_  
+> **— Kakashi Hatake**
+
 <br/>
 
-<!-- Footer ninja gif -->
-<img src="https://media.giphy.com/media/H7ifPdH52pkpa/giphy.gif" width="120" />
+<a href="https://www.linkedin.com/in/yaswanth-thottempudi-2720b221a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:yaswanththottempudi@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+<a href="https://github.com/YASWANTHthottempudi"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F59E0B" alt="GitHub"/></a>
 
-**⚡ Dattebayo! Thanks for visiting my shinobi base. ⚡**
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║                          FOOTER                              ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,50:1E3A8A,100:0D1117&height=140&section=footer&text=Dattebayo!%20%E2%9A%A1%20Thanks%20for%20visiting&fontSize=20&fontColor=FFD700&animation=twinkling&fontAlignY=70" width="100%" alt="footer"/>
